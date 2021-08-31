@@ -1,7 +1,7 @@
-[![forthebadge](https://forthebadge.com/images/badges/uses-css.svg)](http://forthebadge.com)**In Js**
+[![forthebadge](https://forthebadge.com/images/badges/uses-css.svg)](http://forthebadge.com)
 
 # Goal of the project
-Simple home page of a digital agency that I did before joining my school when i was learning a lot front-end development made with the preprocessor Sass and the library AOS to animate the div when the scroll reach them .
+The project is a simple home page of a digital agency that I did before joining my school when i was learning a lot front-end development I made it with the preprocessor Sass and the library AOS to animate the div when the scroll reach them.
 
 ## How I build this project
 * I find this project on [frontend-mentor.io](https://www.frontendmentor.io/) which is a website for front-end developers where in the challenge section you can try to recode the front of many websites and post it into the solutions part.
