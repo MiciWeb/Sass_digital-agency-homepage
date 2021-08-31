@@ -2,7 +2,7 @@
 [![forthebadge](https://forthebadge.com/images/badges/uses-html.svg)](http://forthebadge.com)
 
 # Goal of the project
-The project is a single home page of a digital agency that I did before joining my school when i was learning front-end development as a self-taugh. 
+The project is the home page of a digital agency that I did before joining my school when i was learning front-end development as a self-taugh. 
 
 ## How I build this project
 * I used the library [Aoi](https://aoi.js.org/) which is a great way to add good looking animation when the scroll trigger on the div.
