@@ -1,5 +1,5 @@
 # Goal of the project
-The project is a simple home page of a digital agency that I did before joining my school when i was learning a lot front-end development. 
+The project is a single home page of a digital agency that I did before joining my school when i was learning front-end development as a self-taugh. 
 
 ## How I build this project
 * I used the library [Aoi](https://aoi.js.org/) which is a great way to add good looking animation when the scroll trigger on the div.
